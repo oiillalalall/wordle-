@@ -1,1 +1,1 @@
-# (wordle)  araferi gansakutrebuli xdeba aq 
+amas achvenebs?
