@@ -1,1 +1,1 @@
-amas achvenebs?
+amas achvenebs?  (ki)
