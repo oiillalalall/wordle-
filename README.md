@@ -1,1 +1,1 @@
-# wordle-
+# (wordle)  araferi gansakutrebuli xdeba aq 
