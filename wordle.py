@@ -1,3 +1,5 @@
+
+
 import random
 
 words = [ "pasta", "pizza", "mouse", "gamer", "razor"]
@@ -12,4 +14,3 @@ for attempt in range(1, attempts + 1):
     if len(guess) != 5:
         print("Please enter a 5 character long word")
         continue
-
